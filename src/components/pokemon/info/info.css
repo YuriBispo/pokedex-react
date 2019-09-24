@@ -1,0 +1,17 @@
+.text-white {
+  color: #FFF;
+}
+
+h4 {
+  margin-bottom: 10px
+}
+
+.no-bullets {
+  list-style: none;  
+  padding-left: 15px;
+  margin-top: 0;
+}
+
+.pokemon-info {
+  padding-right: 35px;
+}

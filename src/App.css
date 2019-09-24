@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;  
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+}
+
+.app {
+  background-color: #199;   
+}
+
+.pokemon-content {
+  display: flex;
+  background-color: #023;  
+}
