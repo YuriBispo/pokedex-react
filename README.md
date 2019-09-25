@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# pokedex-react
+A practice repo based on pokemon's pokedex.
+
+## What am I trying to do?
+I'm practicing React concepts like components, props, state, lifecycle, HOC, hooks, etc... So, it's not like a REAL LIFE application, but I'll use the best practices for each scenario.
+
+## That's it?
+Yeah, bro! I'm just studying ;]
+>>>>>>> 11b1191da0e09c3068da7d57c680da053ea2ecbb
